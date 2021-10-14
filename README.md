@@ -22,7 +22,7 @@ cd pearOS-Default-Launchpad
 
 * manual way:
 ```sh
-#!/usr/bin
+#!/usr/bin/bash
 git clone https://github.com/Pear-Project/pearOS-Default-Launchpad
 cd pearOS-Default-Launchpad
 mkdir -p ~/.local/share/plasma/plasmoids/pearOSLaunchpad
